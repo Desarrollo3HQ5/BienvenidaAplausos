@@ -1,0 +1,24 @@
+nav {
+    /* background: linear-gradient(45deg, rgb(104, 0, 104) 60%, rgb(161, 0, 0)); */
+    background: rgb(0, 0, 0, .5);
+    padding: 20px;
+}
+.btn-login{
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    background: rgb(0, 0, 0, .5);
+    color: #c20000;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    letter-spacing: 4px;
+}
+.btn-login:hover{
+    background: #d80000;
+    color: rgb(10, 11, 21);
+    border-radius: 5px;
+}

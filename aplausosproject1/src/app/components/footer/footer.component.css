@@ -1,0 +1,10 @@
+img{
+    filter: invert(100%);
+}
+span{
+    color: white;
+}
+footer{
+    background: rgb(0, 0, 0, .5);
+    position: relative;
+}
